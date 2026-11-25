@@ -75,8 +75,8 @@ Client ──▶ Nginx (:80) ──▶ Agent (:8000) ──┬──▶ Redis (:
 ## Part 3: Cloud Deployment
 
 ### Exercise 3.1: Deploy Agent Part 6 lên Cloud
-- **Nền tảng sử dụng:** *(Điền Railway hoặc Render sau khi deploy)*
-- **URL Public:** *(Điền URL sau khi deploy ở bước CP6)*
+- **Nền tảng sử dụng:** Railway (`Root Directory: 06-lab-complete`, kèm managed Redis)
+- **URL Public:** https://k5-l3a-day14-duongthanhbinh-2a202603531-deployme-production.up.railway.app
 - **Screenshots:** `screenshots/dashboard.png`, `screenshots/running.png`, `screenshots/test.png`
 
 ### Exercise 3.2: So sánh `railway.toml` và `render.yaml`
